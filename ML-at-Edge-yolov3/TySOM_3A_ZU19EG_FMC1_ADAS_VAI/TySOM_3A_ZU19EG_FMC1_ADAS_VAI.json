@@ -1,0 +1,6 @@
+{
+    "target"   : "DPUCZDX8G",
+    "dcf"      : "/workspace/Vitis-AI-Tutorials-ML-at-Edge-yolov3/files_covid/TySOM_3A_ZU19EG_FMC1_ADAS_VAI/TySOM_3A_ZU19EG_FMC1_ADAS_VAI.dcf",
+    "cpu_arch" : "arm64"
+}
+
